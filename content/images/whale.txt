@@ -13,4 +13,4 @@
                                                           / \`.
                                                          /  _\-'
                                                         /_,'
-This is a cool whale.
+This is a super cool whale.
